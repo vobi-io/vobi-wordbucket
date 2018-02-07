@@ -57,8 +57,8 @@ Category
 ```
 
 ### Pages
-Voting list page (actions: edit, delete, add)
-Voting details page: (Report form (after finished or show if enabled), vote form).
+* 1)Voting list page (actions: edit, delete, add)
+* 2)Voting details page: (Report form (after finished or show if enabled), vote form).
 
 For example:
 if voting is 'Which is good laptop'? 
