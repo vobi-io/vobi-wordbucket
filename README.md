@@ -20,53 +20,17 @@ Project Feautres:
 * 1)login
 * 2)signup
 
-* 3)create word ()
+* 3)create word 
 * 4)update a word
 * 5)list words
 * 6)delete a words
 
-* 7)User can not vote more than one in a voting
-* 8)Show Report by chart.js if show report in process is true, other way only after finished the voting
-* 9)Report must show how many precent get each candicate
-* 10)Only login user can vote the voting
-* 11)App has to posibility to show static during the voting if it's enabled.
+* 7) Game test: როდესაც შეხვალ ამ როუტზე გამოვა შენი სიტყვების ჩამონათვალიდან რანდომით არჩეული 10 სიტყვა. ტესტი უნდა იყოს ორი სახის:
+1)ერთი სწორი პასუხი და რამოდენიმე ბაზიდან ამოღებული სხვადასხვა ვარიანტი
+2)გაჩვენებს კითხვას და დაჭერის შემდეგ გაჩვენებს პასუხს
 
-#### User fields:
-```
-user:
-id
-username,
-email,
-created,
-activated
-```
 
-#### Voting fields:
-```
-name,
-date,
-created,
-modified,
-description,
-startDate
-endDate
-user
-Options
-Quesitons
-Category
-```
-
-### Pages
-* 1)Text list page (actions: edit, delete, add)
-* 2)Voting details page: (Report form (after finished or show if enabled), vote form).
-
-For example:
-if voting is 'Which is good laptop'? 
-options: 1)Mac book 2)Hp 3)Samsung
-detail page url would be localhost:4000/which-is-good-laptop
-
-Report would show on the report:
-1)Mac book - 50% 2)Hp - 30% 3)Samsung 20%
+http://readlang.com/learn
 
 
 
