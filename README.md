@@ -20,10 +20,10 @@ Project Feautres:
 * 1)login
 * 2)signup
 
-* 3)create a voting
-* 4)update a voting
-* 5)list voting
-* 6)delete a voting
+* 3)create word ()
+* 4)update a word
+* 5)list words
+* 6)delete a words
 
 * 7)User can not vote more than one in a voting
 * 8)Show Report by chart.js if show report in process is true, other way only after finished the voting
@@ -57,7 +57,7 @@ Category
 ```
 
 ### Pages
-* 1)Voting list page (actions: edit, delete, add)
+* 1)Text list page (actions: edit, delete, add)
 * 2)Voting details page: (Report form (after finished or show if enabled), vote form).
 
 For example:
