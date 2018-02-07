@@ -41,7 +41,7 @@ created,
 activated
 ```
 
-#### Projects fields:
+#### Voting fields:
 ```
 name,
 date,
@@ -51,20 +51,23 @@ description,
 startDate
 endDate
 user
+Options
+Quesitons
+Category
 ```
 
-#### Task fields:
-```
-id,
-name,
-date,
-created,
-modified,
-description,
-startDate
-endDate
-project
-user
-```
+### Pages
+Voting list page (actions: edit, delete, add)
+Voting details page: (Report form (after finished or show if enabled), vote form).
+
+For example:
+if voting is 'Which is good laptop'? 
+options: 1)Mac book 2)Hp 3)Samsung
+detail page url would be localhost:4000/which-is-good-laptop
+
+Report would show on the report:
+1)Mac book - 50% 2)Hp - 30% 3)Samsung 20%
+
+
 
 
