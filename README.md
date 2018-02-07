@@ -27,7 +27,7 @@ Project Feautres:
 
 * 7)User can not vote more than one in a voting
 * 8)Show Report by chart.js if show report in process is true, other way only after finished the voting
-* 9) report must show hoemany precent get each candicate
+* 9)Report must show how many precent get each candicate
 * 10)Only login user can vote the voting
 * 11)App has to posibility to show static during the voting if it's enabled.
 
