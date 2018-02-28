@@ -30,7 +30,7 @@ Project Feautres:
 2)გაჩვენებს კითხვას და დაჭერის შემდეგ გაჩვენებს პასუხს
 
 
-http://readlang.com/learn
+http://readlang.com/learn აი ამ სატიზე როგორც არის ამის მსგავსი აპლიკაცია
 
 
 
